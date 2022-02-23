@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 13px;
+   
+}
+html{
+    max-height: 100vh;
+}
+body{
+    background-color: hsl(210, 46%, 95%) !important;
+    max-height: 100vh;
+
+}
+  
+
+.box1 .card{
+    background-color: hsl(263, 55%, 52%) ;
+    border-radius: 10px;
+    height: 90%;
+   
+
+}
+.card-header1 img{
+    border: 1px solid hsl(0, 0%, 81%);
+    height: 80%;
+    margin-top: 5px;
+    max-width: 60%;
+   
+ 
+}
+
+/*.card-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}*/
+.info{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.info p{
+    color: hsl(0, 0%, 81%);
+}
+.card-header .bg{
+    /*float: right;
+    top: -70px;*/
+    position: absolute;
+    right: 20px;
+    top: 0px;
+   
+
+}
+.card-body{
+    position: relative;
+    z-index: 10;
+    top: -20px;
+}
+.para{
+    color: hsl(0, 0%, 81%);
+}
+/*===================================vbbox2===============================*/
+
+.box2 .card{
+    background-color: hsl(217, 19%, 35%) ;
+    border-radius: 10px;
+    height: 90%;
+
+}
+.box2 .card-header1 .ig{
+    border: 1px solid hsl(0, 0%, 81%);
+    height: 75%;
+    margin-top: 5px;
+    max-width: 60%;
+   
+ 
+}
+
+.box3 .card{
+    border-radius: 10px;
+    height: 90%;
+}
+
+.box3 .card-header1 .ig{
+    border: 1px solid hsl(0, 1%, 40%);
+}
+
+
+.box4 .card{
+    background-color:  hsl(219, 29%, 14%);
+    border-radius: 10px;
+    height: 90%;
+}
+
+.box5 .card{
+    border-radius: 10px;
+    height: 95%;
+}
