@@ -27,6 +27,9 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 📌 [Repository Link](https://github.com/ishika-rg/Testimonials-Grid-Section) <br>
 📌 [Live Link]( https://ishika-rg.github.io/Testimonials-Grid-Section/)
 
+## Demo
+[Demo video](https://user-images.githubusercontent.com/90634018/155295045-d35c81eb-ccba-478e-b785-23f93392a521.mp4)
+
 ## Where to find everything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
